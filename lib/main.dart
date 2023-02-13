@@ -3,6 +3,8 @@ import 'package:simple_bible/home_page.dart';
 import 'package:simple_bible/profile.dart';
 import 'package:simple_bible/notes.dart';
 
+//test test test
+
 void main() {
   runApp(const MyApp());
 }
